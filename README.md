@@ -1,4 +1,5 @@
 # Requirements
+ - VS Code
  - Git
  - CxxTest Suite
  - A C++ Compiler
@@ -8,12 +9,12 @@ This section explains how to run the assignments locally. It is assumed that you
 
 First clone this repository using the below command.
 ```
-$ git clone https://github.com/J16N/kpitnovaoop2022.git
-$ cd kpitnovaoop2022
+$ git clone https://github.com/Vineeth0102/KPIT-NOVA
+$ cd KPIT-NOVA
 ```
-Now go into any one of the Assignment folder that you want to run. Let us assume, for example, you want to run `Assignment-1`.
+Now go into any one of the Assignment folder that you want to run.
 ```
-$ cd Assignment-1
+$ cd "Name of the dir"
 ```
 Generate the runner file using `cxxtestgen` command.
 ```
